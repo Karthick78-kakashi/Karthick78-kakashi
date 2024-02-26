@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://twitter.com/karthick_78" target="blank"><img src="https://img.shields.io/twitter/follow/karthick_78?logo=twitter&style=for-the-badge" alt="karthick_78" /></a> </p>
 
-- 🌱 I’m currently learning **System Design,Next.js and Solidity**
+- 🌱 I’m currently learning **System Design, Next.js and Solidity**
 
 - 💬 Ask me about **web3,JavaScript,Python,React.js**
 
